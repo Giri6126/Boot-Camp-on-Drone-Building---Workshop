@@ -1,0 +1,213 @@
+✈️ Drone Workshop – Day 1 Notes (Morning Session)
+🟢 1. Introduction to Drones
+
+A drone is also known as:
+
+Unmanned Aerial Vehicle (UAV)
+
+Unmanned Aircraft System (UAS)
+
+A drone is an aircraft that flies without a human physically present inside it and is instead controlled remotely by a pilot or through automated systems.
+
+Key Authority:
+
+Air Traffic Control (ATC) manages airspace and provides permissions for safe drone operation.
+
+🟡 2. Regulations for Drones in India
+
+Drone operations in India are regulated by the
+👉 Directorate General of Civil Aviation (DGCA)
+
+🪪 Remote Pilot License (RPL) Requirements
+
+To legally operate most drones:
+
+Age must be between 18 and 65 years
+
+Must have passed at least 10th standard
+
+Must complete Authorized Remote Pilot Training
+
+License issued by DGCA
+
+👉 Exception:
+For research and development (R&D) activities in educational institutions, license is not required.
+
+🟠 3. Drone Registration
+
+All drones must be registered on the DGCA portal:
+
+🔗 https://digitalsky.dgca.gov.in/
+
+Registration depends on:
+
+Drone type
+
+Drone purpose
+
+Each drone receives a Unique Identification Number (UIN).
+
+🔵 4. Classification of Drones (by Weight)
+Category	Weight Range
+Nano Drone	Less than 250 g
+Micro Drone	250 g – 2 kg
+Small Drone	2 kg – 25 kg
+Medium Drone	25 kg – 150 kg
+Large Drone	Above 150 kg
+
+🟣 5. Drone Flying Zones
+
+Drone flying is restricted based on distance from sensitive areas.
+
+🔴 Red Zone
+
+No drone flying allowed
+
+🟡 Yellow Zone
+
+Requires permission from ATC
+
+Two types:
+
+Inner Yellow Zone – within 5 km from red zone
+
+Outer Yellow Zone – within 8 km, flight allowed up to 200 ft
+
+🟢 Green Zone
+
+Beyond 12 km from red zone
+
+Can fly up to 400 ft without permission
+
+🟤 6. Applications of Drones
+
+Drones are widely used in many fields:
+
+🚆 Public & Government Use
+
+Railway security surveillance
+
+SVAMITA scheme for mapping rural lands
+
+🏥 Medical Field
+
+Used by ICMR for medicine delivery to remote areas
+
+🏏 Media & Sports
+
+Used by BCCI for aerial broadcasting of matches
+
+🛡️ Defence Systems
+
+Developed by
+👉 Defence Research and Development Organisation (DRDO)
+
+Examples:
+
+Lakshya
+
+Nishant
+
+Rustom – Medium Altitude Long Endurance (MALE) drone
+
+🔶 7. General Drone Rules
+
+Each drone must have a Unique Identification Number (UIN)
+
+Violations can lead to penalties up to ₹1,00,000
+
+Must follow DGCA airspace guidelines
+
+(Note: Some of your original points like “no restriction for foreign drones” or “no import clearance” are not fully accurate under current DGCA policy — better to avoid or verify before writing in record.)
+
+Afternoon Session:
+
+
+🔹 Components of a Drone
+
+We learned about the major parts of a quadcopter drone:
+
+Frame
+The structural body of the drone - Holds all components together
+Motors (Brushless DC Motors) - Responsible for propeller rotation
+Usually 4 motors in a quadcopter
+Propellers - Create lift and thrust
+Two clockwise (CW) and two counterclockwise (CCW)
+Electronic Speed Controller (ESC)
+Controls motor speed
+Receives signals from the flight controller
+Flight Controller (FC)
+The brain of the drone
+Stabilizes and controls the drone using sensors
+Battery (Li-Po Battery)
+Power source for the drone
+Power Distribution Board (PDB)
+Distributes power from battery to all components
+Transmitter & Receiver
+Used for remote control of the drone
+
+🔹 Assembly Process Learned
+
+We performed step-by-step assembly of a drone:
+
+Fixing the frame base and arms
+
+Mounting the motors on each arm
+
+Connecting ESCs to motors
+
+Fixing the flight controller on the frame
+
+Wiring the power distribution system
+
+Connecting receiver to flight controller
+
+Attaching propellers (after checking motor direction)
+
+We also learned the importance of:
+
+Correct polarity in wiring
+
+Proper tightening of screws
+
+Weight balance
+
+🔹 Disassembly Process
+
+We were also trained to carefully disassemble the drone:
+
+Removing propellers safely
+
+Disconnecting battery and power lines
+
+Detaching ESCs and motors
+
+Separating frame components
+
+This helped us understand how each part is connected internally.
+
+🔹 Key Concepts Learned
+
+Structure of a quadcopter drone
+
+Working of brushless motors
+
+Importance of ESC and flight controller
+
+Safe handling of Li-Po batteries
+
+Basics of wiring and connections
+
+🔹 Safety Measures
+
+Never connect battery while assembling
+
+Handle propellers carefully
+
+Avoid short circuits
+
+Always check connections before powering
+
+🔹 Conclusion
+
+Day 1 provided a strong foundation in drone hardware. By learning assembly and disassembly, we gained practical knowledge of drone structure and component integration, which will help in building and troubleshooting drones in the coming days.
