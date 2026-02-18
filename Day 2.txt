@@ -1,0 +1,188 @@
+
+
+✈️ Drone Workshop – Day 2 Report Summary
+
+📅 Session Overview
+
+The second day of the drone workshop focused on understanding the history, components, classifications, assembly, and testing of drones. The session included both theoretical learning and hands-on practical work.
+
+
+🟢 1. Introduction and History of Drones
+
+The session began with an overview of the origin and evolution of drones (Unmanned Aerial Vehicles – UAVs).
+
+Early UAVs were mainly used for military surveillance and target practice
+
+Over time, drones evolved with advancements in electronics, communication systems, and control mechanisms
+
+Today, drones are widely used in:
+
+Agriculture
+
+Defence
+
+Healthcare delivery
+
+Photography and media
+
+Mapping and surveying
+
+
+
+
+
+🟡 2. Components of a Drone
+
+We studied the major components required to build a drone:
+
+Flight Controller (FC) – the brain of the drone
+
+Electronic Speed Controller (ESC) – controls motor speed
+
+BLDC Motors – provide thrust
+
+Propellers – generate lift
+
+Power Distribution Board (PDB) – distributes electrical power
+
+Li-Po Battery – power source
+
+Transmitter & Receiver – communication between pilot and drone
+
+Sensors – gyroscope, accelerometer, GPS, etc.
+
+
+
+🟠 3. Classification of Drones Based on Rotors
+
+Drones were classified according to the number and arrangement of rotors:
+
+Tricopter – 3 rotors
+
+Quadcopter – 4 rotors (most common)
+
+Hexacopter – 6 rotors
+
+Octocopter – 8 rotors
+
+
+Each configuration differs in terms of stability, payload capacity, and power consumption.
+
+
+
+
+🔵 4. Types of Flight Controllers (FCs)
+
+We learned about different types of flight controller boards, which manage the drone’s stability and movement.
+
+Examples include:
+
+Basic controller boards
+
+Advanced controllers with GPS and autonomous capabilities
+
+
+The FC performs:
+
+Stabilization
+
+Sensor data processing
+
+Motor control signals
+
+
+
+🟣 5. Drone System Functions
+
+The drone system was explained using four key functions:
+
+🔹 Perception
+
+Collecting data using sensors like gyroscope, accelerometer, GPS
+
+
+🔹 Connection
+
+Electrical connections between components such as ESC, motors, and battery
+
+
+🔹 Communication
+
+Signal transmission between transmitter and receiver
+
+
+🔹 Control
+
+Decision-making handled by the flight controller
+
+
+
+
+
+🛠️ 6. Drone Assembly Procedure
+
+The step-by-step assembly process was demonstrated and performed:
+
+1. Mounting the frame
+
+
+2. Fixing the BLDC motors
+
+
+3. Connecting ESCs to motors
+
+
+4. Wiring ESCs to the Power Distribution Board
+
+
+5. Installing the flight controller
+
+
+6. Connecting receiver and battery
+
+
+7. Fixing propellers (after testing)
+
+
+
+Safety precautions were followed during assembly.
+
+
+
+🧪 7. Motor Testing and Troubleshooting (Afternoon Session)
+
+In the practical session:
+
+All motors were tested after assembly
+
+Motor rotation direction was checked (CW/CCW)
+
+Issues identified included:
+
+Faulty ESCs
+
+Loose wiring
+
+Improper connections
+
+
+
+🔧 Actions Taken:
+
+Errors were rectified
+
+Non-working ESCs were identified and replaced/sorted
+
+Final setup ensured proper functioning of all motors
+
+
+
+
+
+📝 Conclusion
+
+The second day of the workshop provided a comprehensive understanding of drone components, classification, and assembly procedures. The hands-on testing session helped in gaining practical exposure to troubleshooting and system integration, which is essential for building and operating drones successfully.
+
+
+
+

@@ -1,0 +1,140 @@
+✈️ Drone Workshop – Day 3 Report Summary
+
+📅 Session Overview
+
+The third day of the workshop focused on the fundamental principles of drone flight and calibration procedures. The sessions included aerodynamic concepts in the morning and practical calibration using software tools in the afternoon.
+
+
+
+
+🟢 1. Basic Principles of Drone Flight
+
+The session began with a detailed explanation of the working principle of drones. A drone flies by generating lift and thrust using its rotating propellers, which create airflow and pressure differences.
+
+
+
+
+🟡 2. Bernoulli’s Theorem and Lift Generation
+
+A key concept discussed was Bernoulli's principle, which explains how pressure differences in moving air help in generating lift.
+
+📌 Definition:
+
+Bernoulli’s Theorem states that as the velocity of a fluid increases, the pressure exerted by the fluid decreases.
+
+✈️ Application in Drones:
+
+Faster air movement over a surface creates low pressure
+
+Slower air movement creates high pressure
+
+The pressure difference generates lift, allowing the drone to rise
+
+
+
+
+
+🟠 3. Airfoil Shape and Aerodynamics
+
+We studied the airfoil design used in drone propellers.
+
+Key observations:
+
+The upper surface of the airfoil is curved
+
+The lower surface is relatively flat
+
+Air travels faster over the curved top → low pressure
+
+Air travels slower below → high pressure
+
+
+This pressure difference results in upward lift force, which is essential for flight.
+
+We also observed the cross-section of an airfoil and analyzed how airflow interacts with it to produce lift.
+
+
+
+
+🔵 4. Calibration of Drone (Afternoon Session)
+
+The afternoon session focused on drone calibration using a laptop and remote controller with ArduPilot Mission Planner software.
+
+❓ Why Calibration is Important:
+
+Calibration ensures:
+
+Stable flight
+
+Accurate sensor readings
+
+Proper communication between components
+
+
+⚠️ Effects of Poor Calibration:
+
+Unstable hovering
+
+Toilet bowling effect (circular drifting motion)
+
+Directional drifting
+
+Incorrect GPS positioning
+
+
+
+🛠️ 5. Pre-Calibration Safety Steps
+
+Before starting calibration, the following precautions were taken:
+
+Propellers were removed
+
+Battery was checked and fully charged
+
+Drone placed on a flat and stable surface
+
+Environment checked for magnetic and signal interference
+
+
+
+
+🧪 6. Types of Calibration Performed
+
+Using ArduPilot Mission Planner, we performed multiple calibration procedures:
+
+🔹 IMU Calibration
+
+Calibrates accelerometer and gyroscope sensors
+
+
+🔹 Compass Calibration
+
+Ensures correct heading and orientation detection
+
+
+🔹 ESC Calibration
+
+Synchronizes motor speed controllers with throttle input
+
+
+🔹 Remote Control Calibration
+
+Maps transmitter inputs to the flight controller
+
+
+🔹 Initial Parameter Setup
+
+Sets basic flight and safety parameters
+
+
+🔹 Optional Hardware Calibration
+
+Configuring additional sensors or modules (if available)
+
+
+
+
+📝 Conclusion
+
+Day 3 of the workshop provided a strong theoretical foundation in drone aerodynamics and a practical understanding of calibration techniques. Learning about Bernoulli’s principle, airfoil design, and pressure differences helped in understanding how drones generate lift, while the hands-on calibration session ensured knowledge of safe and stable drone operation.
+
