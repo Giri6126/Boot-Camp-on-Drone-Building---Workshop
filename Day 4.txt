@@ -1,0 +1,46 @@
+
+
+Day 4 – Drone Workshop Report
+
+On the fourth day of the drone workshop, the session focused on practical drone operation, technical specifications, and flight simulation.
+
+Morning Session
+
+In the morning session, we learned about the types of drone propellers, including their size, pitch, number of blades, and specifications. We also studied how these factors affect the performance and stability of the drone.
+
+We were introduced to amperage calculations, including the formulas used to estimate the current consumption of motors and electronic components. This helped us understand how to select suitable batteries based on the drone’s power requirements.
+
+Additionally, we learned about:
+
+Choosing the right battery (capacity, voltage, discharge rate)
+
+Important electrical connections in a drone
+
+Ensuring proper wiring for safe and efficient operation
+
+
+
+
+
+Afternoon Session
+
+In the afternoon, we performed drone flight simulation using the software RealFlight Evolution, which helped us understand the controls and handling of a drone in a virtual environment.
+
+After simulation practice, we operated a real drone in the air, gaining hands-on experience in:
+
+Basic flight control
+
+Stability management
+
+Navigation and maneuvering
+
+
+This session helped bridge the gap between theoretical knowledge and practical flying skills.
+
+
+
+Conclusion
+
+Overall, Day 4 was highly interactive and focused on real-world drone handling and performance understanding. It enhanced our confidence in operating drones safely and effectively while applying the concepts learned in previous sessions.
+
+
