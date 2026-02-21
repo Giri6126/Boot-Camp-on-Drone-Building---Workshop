@@ -1,0 +1,69 @@
+
+📘 Day 5 – Workshop Summary (Final Day)
+
+The fifth and final day of the drone workshop focused on advanced sensing technologies, mapping workflows, and practical demonstrations, followed by an assessment and certification.
+
+🌅 Morning Session – Sensors & Mapping Concepts
+
+In the morning session, we learned about electromagnetic radiation and its importance in drone-based sensing and imaging. We studied how different wavelengths are used in various sensing applications.
+
+We also explored different types of sensors used in drones, including:
+
+Image Sensors – used for capturing visual data and aerial photography
+
+RGB Sensors – for standard color imaging and mapping
+
+Hyperspectral Sensors – for capturing data across multiple spectral bands, used in agriculture and research
+
+Thermal Sensors – for detecting heat signatures, useful in surveillance and rescue operations
+
+Radar Sensors – used for distance measurement, terrain mapping, and object detection
+
+
+Further, we learned about the drone mapping workflow, which includes:
+
+1. Flight planning
+
+
+2. Data acquisition
+
+
+3. Image processing
+
+
+4. Map generation and analysis
+
+
+
+Simulation of mapping processes was also demonstrated to help us understand real-world implementation.
+
+🌇 Afternoon Session – Practical Drone Show & Evaluation
+
+In the afternoon session:
+
+Each team was assigned one drone
+
+We performed a drone show demonstration, where students operated drones practically and showcased coordinated flying skills
+
+This session helped us gain hands-on confidence in flying and controlling drones
+
+
+After the practical session:
+
+An assessment test was conducted by IIITDM to evaluate our understanding of the workshop topics
+
+Based on the performance, certifications were issued
+
+
+
+
+With the successful completion of the final day:
+
+We gained both theoretical knowledge and practical skills
+
+We understood drone technology, components, aerodynamics, calibration, mapping, and applications
+
+The workshop ended with a certification, marking the successful completion of the program
+
+
+
