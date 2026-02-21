@@ -1,0 +1,178 @@
+
+
+🚁 Drone Design & Development Workshop –  Report
+
+📌 Overview
+
+I successfully completed a 5-day hands-on workshop on Drone Design and Development, where I gained both theoretical knowledge and practical experience in building, calibrating, and operating drones from scratch.
+
+The workshop covered core drone engineering concepts, flight principles, hardware integration, simulation, aerial mapping, and real-time drone operation, culminating in a final evaluation and certification.
+
+
+
+🎯 Objectives of the Program
+
+To understand the fundamentals of Unmanned Aerial Vehicles (UAVs)
+
+To learn drone assembly, calibration, and flight control systems
+
+To gain exposure to aerodynamics and lift generation principles
+
+To understand mapping, sensing technologies, and real-world drone applications
+
+To develop hands-on flying and simulation skills
+
+
+
+
+📚 Key Learnings (Day-wise Summary)
+
+🟢 Day 1 – Introduction & Regulations
+
+Basics of UAV/UAS systems
+
+Drone classifications (Nano, Micro, Small, Medium, Large)
+
+DGCA regulations, Remote Pilot License (RPL), and Digital Sky registration
+
+Airspace zones: Red, Yellow, and Green zones
+
+Applications of drones in defence, agriculture, healthcare, surveillance, and broadcasting
+
+
+
+🟡 Day 2 – Components & Assembly
+
+History and evolution of drones
+
+Drone classifications based on rotor configuration
+
+Understanding Flight Controllers (FC), ESCs, motors, batteries
+
+Hands-on drone assembly and disassembly
+
+Testing motors and troubleshooting ESC issues
+
+
+
+
+
+🔵 Day 3 – Aerodynamics & Calibration
+
+Bernoulli’s Theorem and lift generation
+
+Airfoil design, pressure difference, and flight dynamics
+
+Drone calibration using Mission Planner (Ardupilot)
+
+IMU Calibration
+
+Compass Calibration
+
+ESC Calibration
+
+Remote Controller Calibration
+
+
+Understanding calibration issues like drift, toilet-bowling, unstable hover
+
+
+🟣 Day 4 – Electrical Systems & Flight Practice
+
+Propeller types, specifications, and sizing
+
+Amperage calculations and power requirements
+
+Battery selection and connection systems
+
+Drone simulation using RealFlight Evolution
+
+Real-time drone flying practice and maneuvering
+
+
+
+
+
+🔴 Day 5 – Sensors, Mapping & Final Demonstration
+
+Electromagnetic radiation and sensing technologies
+
+Types of sensors:
+
+RGB Sensors
+
+Thermal Sensors
+
+Hyperspectral Sensors
+
+Radar Systems
+
+
+Drone mapping workflow (flight planning → data capture → processing → mapping)
+
+Team-based drone show demonstration
+
+Final evaluation conducted by IIITDM
+
+Certification upon successful completion
+
+
+
+
+🛠️ Technical Skills Acquired
+
+Drone assembly and hardware integration
+
+Flight controller configuration and calibration
+
+Understanding of aerodynamics and lift
+
+Sensor technologies and aerial data collection
+
+Drone simulation and real-time flight control
+
+Troubleshooting ESCs, motors, and calibration errors
+
+
+
+
+🌍 Real-World Applications Understood
+
+Agriculture mapping and crop monitoring
+
+Medical supply delivery
+
+Surveillance and railway security
+
+Defence drone systems
+
+Land mapping (SVAMITVA scheme)
+
+Aerial cinematography and sports broadcasting
+
+
+
+
+
+🏁 Outcome of the Program
+
+Successfully built and tested a working drone
+
+Performed simulation and real-world drone operation
+
+Completed assessment and received certification
+
+Gained strong foundation in drone technology and UAV systems
+
+
+
+
+✨ Personal Reflection
+
+This workshop significantly enhanced my understanding of aerial systems, electronics, and real-time control systems. It also improved my teamwork, problem-solving, and hands-on engineering skills.
+
+As a student specializing in AI & ML, this experience has inspired me to explore AI-powered drones, autonomous navigation, and computer vision-based aerial systems in future projects.
+
+
+
+
